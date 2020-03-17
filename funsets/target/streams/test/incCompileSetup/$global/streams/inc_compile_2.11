@@ -1,0 +1,302 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.12
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+38 items
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> /Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetReference$$anonfun$1$$anonfun$2.class
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> /Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetReference$$anonfun$1.class
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> /Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetReference$$anonfun$3$$anon$1.class
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> /Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetReference$$anonfun$3.class
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> /Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetReference$$anonfun$4$$anon$2.class
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> /Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetReference$$anonfun$4.class
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> /Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetReference$TestSets$class.class
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> /Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetReference$TestSets.class
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> /Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetReference.class
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> /Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$1$$anonfun$2.class
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> /Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$1.class
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> /Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$10$$anon$6$$anonfun$11.class
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> /Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$10$$anon$6$$anonfun$12.class
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> /Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$10$$anon$6.class
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> /Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$10.class
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> /Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$13$$anon$7$$anonfun$14.class
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> /Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$13$$anon$7$$anonfun$15.class
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> /Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$13$$anon$7.class
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> /Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$13.class
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> /Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$16$$anon$8$$anonfun$17.class
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> /Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$16$$anon$8$$anonfun$18.class
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> /Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$16$$anon$8.class
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> /Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$16.class
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> /Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$3$$anon$1.class
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> /Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$3.class
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> /Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$4$$anon$2.class
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> /Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$4.class
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> /Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$5$$anon$3.class
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> /Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$5.class
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> /Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$6$$anon$4.class
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> /Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$6.class
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> /Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$7$$anon$5$$anonfun$8.class
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> /Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$7$$anon$5$$anonfun$9.class
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> /Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$7$$anon$5.class
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> /Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$7.class
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> /Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$TestSets$class.class
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> /Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$TestSets.class
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> /Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetSuite.class
+binary dependencies:
+6 items
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> /Users/cjiahui/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/junit/junit/4.10/junit-4.10.jar
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> /Users/cjiahui/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> /Users/cjiahui/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4.jar
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> /Users/cjiahui/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/junit/junit/4.10/junit-4.10.jar
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> /Users/cjiahui/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> /Users/cjiahui/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+2 items
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> funsets.FunSets$
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> funsets.FunSets$
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+38 items
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> funsets.FunSetReference
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> funsets.FunSetReference$$anonfun$1
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> funsets.FunSetReference$$anonfun$1$$anonfun$2
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> funsets.FunSetReference$$anonfun$3
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> funsets.FunSetReference$$anonfun$3$$anon$1
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> funsets.FunSetReference$$anonfun$4
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> funsets.FunSetReference$$anonfun$4$$anon$2
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> funsets.FunSetReference$TestSets
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> funsets.FunSetReference$TestSets$class
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> funsets.FunSetSuite
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$1
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$1$$anonfun$2
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$10
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$10$$anon$6
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$10$$anon$6$$anonfun$11
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$10$$anon$6$$anonfun$12
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$13
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$13$$anon$7
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$13$$anon$7$$anonfun$14
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$13$$anon$7$$anonfun$15
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$16
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$16$$anon$8
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$16$$anon$8$$anonfun$17
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$16$$anon$8$$anonfun$18
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$3
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$3$$anon$1
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$4
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$4$$anon$2
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$5
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$5$$anon$3
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$6
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$6$$anon$4
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$7
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$7$$anon$5
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$7$$anon$5$$anonfun$8
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$7$$anon$5$$anonfun$9
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> funsets.FunSetSuite$TestSets
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> funsets.FunSetSuite$TestSets$class
+used names:
+100 items
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> $anon
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> $org_scalatest_assert_macro_expr
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> <byname>
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> <init>
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> <repeated>
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> Any
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> AnyRef
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> AssertionsHelper
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> Bool
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> Boolean
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> FunSetReference
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> FunSets
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> FunSuite
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> Function1
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> Int
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> JUnitRunner
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> Object
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> Predef
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> RunWith
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> Set
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> String
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> Tag
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> TestSets
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> Unit
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> assert
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> assertionsHelper
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> contains
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> funsets
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> junit
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> macroAssert
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> notBool
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> org
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> runner
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> s
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> s1
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> s2
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> s3
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> scala
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> scalactic
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> scalatest
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> simpleMacroBool
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> singletonSet
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> test
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> unary_!
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> union
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> $anon
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> $org_scalatest_assert_macro_expr
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> *
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> <
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> <byname>
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> <init>
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> <repeated>
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> >
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> Any
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> AnyRef
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> AssertionsHelper
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> Bool
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> Boolean
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> FunSetSuite
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> FunSets
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> FunSuite
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> Function1
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> Int
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> JUnitRunner
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> Object
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> Predef
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> RunWith
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> Set
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> String
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> Tag
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> TestSets
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> Unit
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> assert
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> assertionsHelper
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> contains
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> diff
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> exists
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> filter
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> forall
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> funsets
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> intersect
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> junit
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> macroAssert
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> map
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> notBool
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> org
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> runner
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> s
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> s1
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> s2
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> s3
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> scala
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> scalactic
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> scalatest
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> simpleMacroBool
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> singletonSet
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> test
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> unary_!
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> union
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> x
+product stamps:
+38 items
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetReference$$anonfun$1$$anonfun$2.class -> lastModified(1547455883945)
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetReference$$anonfun$1.class -> lastModified(1547455883943)
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetReference$$anonfun$3$$anon$1.class -> lastModified(1547455883959)
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetReference$$anonfun$3.class -> lastModified(1547455883952)
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetReference$$anonfun$4$$anon$2.class -> lastModified(1547455883971)
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetReference$$anonfun$4.class -> lastModified(1547455883961)
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetReference$TestSets$class.class -> lastModified(1547455883977)
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetReference$TestSets.class -> lastModified(1547455883974)
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetReference.class -> lastModified(1547455883939)
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$1$$anonfun$2.class -> lastModified(1547455883989)
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$1.class -> lastModified(1547455883986)
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$10$$anon$6$$anonfun$11.class -> lastModified(1547455884001)
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$10$$anon$6$$anonfun$12.class -> lastModified(1547455884005)
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$10$$anon$6.class -> lastModified(1547455883998)
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$10.class -> lastModified(1547455883993)
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$13$$anon$7$$anonfun$14.class -> lastModified(1547455884018)
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$13$$anon$7$$anonfun$15.class -> lastModified(1547455884020)
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$13$$anon$7.class -> lastModified(1547455884014)
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$13.class -> lastModified(1547455884009)
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$16$$anon$8$$anonfun$17.class -> lastModified(1547455884033)
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$16$$anon$8$$anonfun$18.class -> lastModified(1547455884036)
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$16$$anon$8.class -> lastModified(1547455884030)
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$16.class -> lastModified(1547455884023)
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$3$$anon$1.class -> lastModified(1547455884044)
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$3.class -> lastModified(1547455884039)
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$4$$anon$2.class -> lastModified(1547455884052)
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$4.class -> lastModified(1547455884047)
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$5$$anon$3.class -> lastModified(1547455884060)
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$5.class -> lastModified(1547455884055)
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$6$$anon$4.class -> lastModified(1547455884068)
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$6.class -> lastModified(1547455884062)
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$7$$anon$5$$anonfun$8.class -> lastModified(1547455884081)
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$7$$anon$5$$anonfun$9.class -> lastModified(1547455884084)
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$7$$anon$5.class -> lastModified(1547455884078)
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$$anonfun$7.class -> lastModified(1547455884071)
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$TestSets$class.class -> lastModified(1547455884088)
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetSuite$TestSets.class -> lastModified(1547455884086)
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/target/scala-2.11/test-classes/funsets/FunSetSuite.class -> lastModified(1547455883982)
+source stamps:
+2 items
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> hash(3393e49cea77c29f191adc2cfa82c9c56728152f)
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> hash(6778cef8939932d934574c765ff857aad64d4930)
+binary stamps:
+3 items
+/Users/cjiahui/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/junit/junit/4.10/junit-4.10.jar -> lastModified(1317323535000)
+/Users/cjiahui/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar -> lastModified(1509673049000)
+/Users/cjiahui/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4.jar -> lastModified(1422515758000)
+class names:
+3 items
+/Users/cjiahui/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/junit/junit/4.10/junit-4.10.jar -> org.junit.runner.RunWith
+/Users/cjiahui/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar -> scala.Function1
+/Users/cjiahui/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4.jar -> org.scalatest.FunSuite
+internal apis:
+2 items
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwxaFZ2gAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAJzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHA+TYDcdAAVdW5jb25zdHJhaW5lZEVxdWFsaXR5c3EAfgAL5QmsFXQAEmNvbnZlcnRUb0VxdWFsaXplcnVxAH4ACQAAAGlzcQB+AAvSTP8PdAAGYXNzZXJ0c3EAfgALbEj8AnQABm5vdGlmeXNxAH4ACw+mCqt0ACZsb3dQcmlvcml0eUNvbnZlcnNpb25DaGVja2VkQ29uc3RyYWludHNxAH4AC7Wtoat0ABBBc3NlcnRpb25zSGVscGVyc3EAfgALSWYA83QABmNhbmNlbHNxAH4ACz69Ezp0AAR0ZXN0c3EAfgALF5xzy3QAEWV4ZWN1dGUkZGVmYXVsdCQyc3EAfgALA0m/03QADGV4cGVjdFJlc3VsdHNxAH4AC/CJM+V0AAlpbnRlcmNlcHRzcQB+AAuB79BadAAEZmFpbHNxAH4AC97Udyt0AARuYW1lc3EAfgALpGGVc3QAAnMzc3EAfgALLDVB2HQAFGFzc2VydERvZXNOb3RDb21waWxlc3EAfgALgQfQDXQAEWV4ZWN1dGUkZGVmYXVsdCQ0c3EAfgAL29DuynQAB2V4ZWN1dGVzcQB+AAvx+ObPdAAEd2FpdHNxAH4ACwI0TCp0AAt0ZXN0RGF0YUZvcnNxAH4ACwZq7zF0ABNjcmVhdGVDYXRjaFJlcG9ydGVyc3EAfgALXEL3ZnQACXN0eWxlTmFtZXNxAH4ACxoS7m10AA0kYXNJbnN0YW5jZU9mc3EAfgALXlTDu3QAEWV4ZWN1dGUkZGVmYXVsdCQzc3EAfgALkTtRdXQACWNvbmZpZ01hcHNxAH4AC/g/uhZ0AAZlcXVhbHNzcQB+AAthUrzFdAAsY29udmVydEVxdWl2YWxlbmNlVG9BVG9CQ29udmVyc2lvbkNvbnN0cmFpbnRzcQB+AAuCKwb4dAAPZGVmYXVsdEVxdWFsaXR5c3EAfgALpFzL3nQACFRlc3RTZXRzc3EAfgALZrL9I3QAImNvbnZlcnRFcXVpdmFsZW5jZVRvQVRvQkNvbnN0cmFpbnRzcQB+AAs8CN7udAAEdGFnc3NxAH4AC98+6hp0AAxhc0luc3RhbmNlT2ZzcQB+AAtiV4FVdAAFYWxlcnRzcQB+AAtSeM4qdAADcnVuc3EAfgALAWY0AXQAD0xlZ2FjeUVxdWFsaXplcnNxAH4AC0QiV9x0AAZzY29wZXNzcQB+AAuoT6gOdAAYY29udmVydFRvTGVnYWN5RXF1YWxpemVyc3EAfgALX+F/qnQADHN5bmNocm9uaXplZHNxAH4AC7QTjTx0AA5hc3NlcnRDb21waWxlc3NxAH4AC4hoNOR0AA0kaXNJbnN0YW5jZU9mc3EAfgAL3vSA3HQABHRyYXBzcQB+AAs22OoCdAAVdGVzdERhdGFGb3IkZGVmYXVsdCQyc3EAfgALhpDhf3QADGFzc2VydFJlc3VsdHNxAH4ACyCUFSJ0AAJzMnNxAH4AC8fcwqZ0AAR0ZXh0c3EAfgALQvVfjXQALGNvbnZlcnRFcXVpdmFsZW5jZVRvQlRvQUNvbnZlcnNpb25Db25zdHJhaW50c3EAfgALJe/WPHQAEWV4ZWN1dGUkZGVmYXVsdCQ3c3EAfgALI2jIdnQAFXR5cGVDaGVja2VkQ29uc3RyYWludHNxAH4AC5Pz4PB0AAMhPT1zcQB+AAu3D7QwdAAEaW5mb3NxAH4ACzq11W10AAlub3RpZnlBbGxzcQB+AAty8ME0dAALd2l0aEZpeHR1cmVzcQB+AAs6r5GfdAAHcnVuVGVzdHNxAH4ACzPV1010AAxpc0luc3RhbmNlT2ZzcQB+AAuKv86ndAAId2l0aENsdWVzcQB+AAsljIPYdAAQYXNzZXJ0aW9uc0hlbHBlcnNxAH4AC/ehnlF0ABFleGVjdXRlJGRlZmF1bHQkNnNxAH4ACzNWqtF0AA9hc3NlcnRUeXBlRXJyb3JzcQB+AAtIlQT5dAAGbWFya3Vwc3EAfgALNqItkHQACGxlZnRTaWRlc3EAfgAL1+4Xa3QABjxpbml0PnNxAH4AC6AORG50AAttYWNyb0Fzc3VtZXNxAH4AC5Z8F890AA9ydW5OZXN0ZWRTdWl0ZXNzcQB+AAs3BadVdAAFYXBwbHlzcQB+AAvGWfcRdAAJRXF1YWxpemVyc3EAfgALTzsf4HQAAnMxc3EAfgALiOEFTnQAG25ld0Fzc2VydGlvbkZhaWxlZEV4Y2VwdGlvbnNxAH4AC3GbM1x0AARub3Rlc3EAfgAL+YAFMHQAAj09c3EAfgAL7vhflnQAD0Z1blNldFJlZmVyZW5jZXNxAH4ACyDXbMt0AAVjbG9uZXNxAH4AC5UAR3N0AAZleHBlY3RzcQB+AAuEpRRGdAAMbmVzdGVkU3VpdGVzc3EAfgALf8dEAXQABmFzc3VtZXNxAH4AC3KowI90AAYkaW5pdCRzcQB+AAvz9kaNdAAgbG93UHJpb3JpdHlUeXBlQ2hlY2tlZENvbnN0cmFpbnRzcQB+AAtxjE+ndAAMcmVnaXN0ZXJUZXN0c3EAfgAL/7z6D3QAEWV4ZWN1dGUkZGVmYXVsdCQ1c3EAfgALFVJTx3QAAz09PXNxAH4ACxnpc+p0ABhuZXdUZXN0Q2FuY2VsZWRFeGNlcHRpb25zcQB+AAvVLoLKdAAIdG9TdHJpbmdzcQB+AAsLYwOfdAAJdGVzdE5hbWVzc3EAfgALegjoCXQAEWV4ZWN1dGUkZGVmYXVsdCQxc3EAfgALeN4KbHQAAiE9c3EAfgALpiLHt3QAF0xlZ2FjeUNoZWNraW5nRXF1YWxpemVyc3EAfgALX7FKFXQACGdldENsYXNzc3EAfgALu6eBcnQAE3JlZ2lzdGVySWdub3JlZFRlc3RzcQB+AAua8j5/dAAIdGVzdHNGb3JzcQB+AAsbYttTdAAIcnVuVGVzdHNzcQB+AAsDFyg3dAARcGVuZGluZ1VudGlsRml4ZWRzcQB+AAtASOWidAARZXhwZWN0ZWRUZXN0Q291bnRzcQB+AAturlItdAAIcmVydW5uZXJzcQB+AAt7vr6ddAAiY29udmVydEVxdWl2YWxlbmNlVG9CVG9BQ29uc3RyYWludHNxAH4AC1YgDpt0AAJuZXNxAH4ACz5F/JB0ABFDaGVja2luZ0VxdWFsaXplcnNxAH4AC7kaiSp0ACBjb252ZXJ0VG9MZWdhY3lDaGVja2luZ0VxdWFsaXplcnNxAH4ACwasvfh0AAdwZW5kaW5nc3EAfgALRM5TFXQABmlnbm9yZXNxAH4AC/1JOhp0AAttYWNyb0Fzc2VydHNxAH4AC04B9fh0AAJlcXNxAH4ACzMIKEJ0ABpjb252ZXJ0VG9DaGVja2luZ0VxdWFsaXplcnNxAH4AC2ewDBF0AAlOb0FyZ1Rlc3RzcQB+AAuBDW7DdAACIyNzcQB+AAtZOBA5dAAIZmluYWxpemVzcQB+AAsT7Tu5dAAbY29udmVyc2lvbkNoZWNrZWRDb25zdHJhaW50c3EAfgAL8tRhkHQACGhhc2hDb2Rlc3EAfgAL43/753QAB3N1aXRlSWRzcQB+AAuYjwS2dAAJc3VpdGVOYW1lc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4A7XhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2V0ABBMeHNidGkvYXBpL1R5cGU7eHB1cgAfW0x4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW50O1Gdpo84JQ94AgAAeHAAAAABc3IAHHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnTWRbHYAxsXfAIAAkwABG5hbWVxAH4ADEwABXZhbHVlcQB+AAx4cHQABXZhbHVldAAoY2xhc3NPZltvcmcuc2NhbGF0ZXN0Lmp1bml0LkpVbml0UnVubmVyXXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHB0AAdSdW5XaXRoc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgEGc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAAEc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AANvcmdzcQB+ARJ0AAVqdW5pdHNxAH4BEnQABnJ1bm5lcnNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgETc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAXZnVuc2V0cy5GdW5TZXRSZWZlcmVuY2V1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAN0ABBzY2FsYS5kZXByZWNhdGVkdAAnc2NhbGEucmVmbGVjdC5tYWNyb3MuaW50ZXJuYWwubWFjcm9JbXBsdAAmamRrLmludGVybmFsLkhvdFNwb3RJbnRyaW5zaWNDYW5kaWRhdGVzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhxAH4BBnNxAH4BKnNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgDtTAAJaW5oZXJpdGVkcQB+AO1MAAdwYXJlbnRzcQB+AO14cQB+AQdzcQB+ASp1cQB+AOgAAAAAc3EAfgEqdXEAfgDoAAAAAHNxAH4BKnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAPc3EAfgEEdAAIRnVuU3VpdGVzcQB+AQpzcQB+AQ11cQB+ARAAAAADc3EAfgESdAADb3Jnc3EAfgESdAAJc2NhbGF0ZXN0cQB+ARtzcQB+AQR0AAxGdW5TdWl0ZUxpa2VxAH4BO3NxAH4BBHQAC0RvY3VtZW50aW5ncQB+ATtzcQB+AQR0AAhBbGVydGluZ3EAfgE7c3EAfgEEdAAJTm90aWZ5aW5ncQB+ATtzcQB+AQR0AAlJbmZvcm1pbmdxAH4BO3NxAH4BBHQAEFRlc3RSZWdpc3RyYXRpb25xAH4BO3NxAH4BBHQABVN1aXRlcQB+ATtzcQB+AQR0AAxTZXJpYWxpemFibGVzcQB+AQpzcQB+AQ11cQB+ARAAAAADc3EAfgESdAAEamF2YXNxAH4BEnQAAmlvcQB+ARtzcQB+AQR0AA1BYnN0cmFjdFN1aXRlcQB+ATtzcQB+AQR0AApBc3NlcnRpb25zcQB+ATtzcQB+AQR0AAxUcmlwbGVFcXVhbHNzcQB+AQpzcQB+AQ11cQB+ARAAAAADc3EAfgESdAADb3Jnc3EAfgESdAAJc2NhbGFjdGljcQB+ARtzcQB+AQR0ABNUcmlwbGVFcXVhbHNTdXBwb3J0cQB+AV9zcQB+AQR0AAZPYmplY3RzcQB+AQpzcQB+AQ11cQB+ARAAAAADc3EAfgEScQB+AVZzcQB+ARJ0AARsYW5ncQB+ARtzcQB+AQR0AANBbnlzcQB+AQpzcQB+AQ11cQB+ARAAAAACc3EAfgESdAAFc2NhbGFxAH4BG3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQAB2Z1bnNldHNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWhLjuUddXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQAWC9Vc2Vycy9jamlhaHVpL0RvY3VtZW50cy9MZWFybmluZy9GdW5jdGlvbmFsU2NhbGEvZnVuc2V0cy90YXJnZXQvc2NhbGEtMi4xMS90ZXN0LWNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQzk+Sc6nfCnxka3Cz6gsnFZygVLw==
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw5SsDBgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAJzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHBdI7h+dAAVdW5jb25zdHJhaW5lZEVxdWFsaXR5c3EAfgALOw0Es3QAEmNvbnZlcnRUb0VxdWFsaXplcnVxAH4ACQAAAGlzcQB+AAt9tWaNdAAGYXNzZXJ0c3EAfgALvJSc3XQABm5vdGlmeXNxAH4AC84TK050ACZsb3dQcmlvcml0eUNvbnZlcnNpb25DaGVja2VkQ29uc3RyYWludHNxAH4AC7AR5a50ABBBc3NlcnRpb25zSGVscGVyc3EAfgALmixk3XQABmNhbmNlbHNxAH4AC8IZho90AAR0ZXN0c3EAfgALceZHp3QAEWV4ZWN1dGUkZGVmYXVsdCQyc3EAfgALEsamonQADGV4cGVjdFJlc3VsdHNxAH4ACykoY2x0AAlpbnRlcmNlcHRzcQB+AAsqn+KSdAAEZmFpbHNxAH4AC9s0KLB0AARuYW1lc3EAfgALT+L3kHQAAnMzc3EAfgALxgKzsHQAFGFzc2VydERvZXNOb3RDb21waWxlc3EAfgALyupnFHQAEWV4ZWN1dGUkZGVmYXVsdCQ0c3EAfgALxI67QnQAB2V4ZWN1dGVzcQB+AAsB4gTHdAAEd2FpdHNxAH4AC1jVQ3F0AAt0ZXN0RGF0YUZvcnNxAH4ACyDMH6N0ABNjcmVhdGVDYXRjaFJlcG9ydGVyc3EAfgALko68RnQACXN0eWxlTmFtZXNxAH4AC9UrHSJ0AA0kYXNJbnN0YW5jZU9mc3EAfgAL9D7TUHQAEWV4ZWN1dGUkZGVmYXVsdCQzc3EAfgALBJjRBHQACWNvbmZpZ01hcHNxAH4AC+OOOn90AAZlcXVhbHNzcQB+AAux+7SGdAAsY29udmVydEVxdWl2YWxlbmNlVG9BVG9CQ29udmVyc2lvbkNvbnN0cmFpbnRzcQB+AAv3qEXtdAAPZGVmYXVsdEVxdWFsaXR5c3EAfgALI9lUdXQACFRlc3RTZXRzc3EAfgALdMdEv3QAImNvbnZlcnRFcXVpdmFsZW5jZVRvQVRvQkNvbnN0cmFpbnRzcQB+AAue2t/fdAAEdGFnc3NxAH4AC+NHS6R0AAxhc0luc3RhbmNlT2ZzcQB+AAvyCfmFdAAFYWxlcnRzcQB+AAtK8LbVdAADcnVuc3EAfgALjSw4PHQAD0xlZ2FjeUVxdWFsaXplcnNxAH4AC2aOA/V0AAZzY29wZXNzcQB+AAurKQ4LdAAYY29udmVydFRvTGVnYWN5RXF1YWxpemVyc3EAfgALWH4ie3QADHN5bmNocm9uaXplZHNxAH4AC5DF58Z0AA5hc3NlcnRDb21waWxlc3NxAH4AC25lw4h0AA0kaXNJbnN0YW5jZU9mc3EAfgALT2CXUnQABHRyYXBzcQB+AAuR/raXdAAVdGVzdERhdGFGb3IkZGVmYXVsdCQyc3EAfgAL6LJjDnQADGFzc2VydFJlc3VsdHNxAH4AC10dENx0AAJzMnNxAH4ACyf8K7x0AAR0ZXh0c3EAfgALhD4tv3QALGNvbnZlcnRFcXVpdmFsZW5jZVRvQlRvQUNvbnZlcnNpb25Db25zdHJhaW50c3EAfgALzl0ZeHQAEWV4ZWN1dGUkZGVmYXVsdCQ3c3EAfgAL0Vgzb3QAFXR5cGVDaGVja2VkQ29uc3RyYWludHNxAH4AC0z8XcZ0AAMhPT1zcQB+AAsfyqWOdAAEaW5mb3NxAH4AC1+D+9V0AAlub3RpZnlBbGxzcQB+AAtfaY5UdAALd2l0aEZpeHR1cmVzcQB+AAvis2cIdAAHcnVuVGVzdHNxAH4AC/zIC/F0AAxpc0luc3RhbmNlT2ZzcQB+AAsdlRgTdAAId2l0aENsdWVzcQB+AAu5YKordAAQYXNzZXJ0aW9uc0hlbHBlcnNxAH4AC+gkxq50ABFleGVjdXRlJGRlZmF1bHQkNnNxAH4ACxYWFah0AA9hc3NlcnRUeXBlRXJyb3JzcQB+AAs7M9VcdAAGbWFya3Vwc3EAfgALvCZjF3QACGxlZnRTaWRlc3EAfgAL8OhEW3QAC0Z1blNldFN1aXRlc3EAfgAL6aVGknQABjxpbml0PnNxAH4ACz5qSJ90AAttYWNyb0Fzc3VtZXNxAH4AC1qnyG90AA9ydW5OZXN0ZWRTdWl0ZXNzcQB+AAvJOAHfdAAFYXBwbHlzcQB+AAtVyYTRdAAJRXF1YWxpemVyc3EAfgAL1TESrXQAAnMxc3EAfgALgy/SH3QAG25ld0Fzc2VydGlvbkZhaWxlZEV4Y2VwdGlvbnNxAH4AC3LMcAV0AARub3Rlc3EAfgAL/0JeKHQAAj09c3EAfgALhxvryHQABWNsb25lc3EAfgALqIIXBnQABmV4cGVjdHNxAH4AC24GjHF0AAxuZXN0ZWRTdWl0ZXNzcQB+AAv1XbQndAAGYXNzdW1lc3EAfgALRC4vD3QABiRpbml0JHNxAH4AC0YEmYN0ACBsb3dQcmlvcml0eVR5cGVDaGVja2VkQ29uc3RyYWludHNxAH4AC50Acix0AAxyZWdpc3RlclRlc3RzcQB+AAuXHnh8dAARZXhlY3V0ZSRkZWZhdWx0JDVzcQB+AAtkRTF9dAADPT09c3EAfgAL8QOZLHQAGG5ld1Rlc3RDYW5jZWxlZEV4Y2VwdGlvbnNxAH4AC1+LISB0AAh0b1N0cmluZ3NxAH4AC+H0cSZ0AAl0ZXN0TmFtZXNzcQB+AAuNnp+UdAARZXhlY3V0ZSRkZWZhdWx0JDFzcQB+AAutxJ5cdAACIT1zcQB+AAtU05uidAAXTGVnYWN5Q2hlY2tpbmdFcXVhbGl6ZXJzcQB+AAtRthpmdAAIZ2V0Q2xhc3NzcQB+AAt+BDJDdAATcmVnaXN0ZXJJZ25vcmVkVGVzdHNxAH4AC2N9na10AAh0ZXN0c0ZvcnNxAH4AC3Y9hgV0AAhydW5UZXN0c3NxAH4ACx8wgKN0ABFwZW5kaW5nVW50aWxGaXhlZHNxAH4ACypE0+J0ABFleHBlY3RlZFRlc3RDb3VudHNxAH4ACyFU7Ep0AAhyZXJ1bm5lcnNxAH4AC5uwyYB0ACJjb252ZXJ0RXF1aXZhbGVuY2VUb0JUb0FDb25zdHJhaW50c3EAfgALuJzDMnQAAm5lc3EAfgALkkqpaHQAEUNoZWNraW5nRXF1YWxpemVyc3EAfgALYT+aOnQAIGNvbnZlcnRUb0xlZ2FjeUNoZWNraW5nRXF1YWxpemVyc3EAfgALQ8WoynQAB3BlbmRpbmdzcQB+AAt8w4HAdAAGaWdub3Jlc3EAfgALtWnA4XQAC21hY3JvQXNzZXJ0c3EAfgALIlMXQHQAAmVxc3EAfgALEm7hU3QAGmNvbnZlcnRUb0NoZWNraW5nRXF1YWxpemVyc3EAfgALHjq/UnQACU5vQXJnVGVzdHNxAH4ACx2T0vZ0AAIjI3NxAH4AC6JevM50AAhmaW5hbGl6ZXNxAH4AC4vCce50ABtjb252ZXJzaW9uQ2hlY2tlZENvbnN0cmFpbnRzcQB+AAtSbD/DdAAIaGFzaENvZGVzcQB+AAvvvP0ZdAAHc3VpdGVJZHNxAH4ACwtmaph0AAlzdWl0ZU5hbWVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgDteHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXQAEEx4c2J0aS9hcGkvVHlwZTt4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgAMTAAFdmFsdWVxAH4ADHhwdAAFdmFsdWV0AChjbGFzc09mW29yZy5zY2FsYXRlc3QuanVuaXQuSlVuaXRSdW5uZXJdc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHQAB1J1bldpdGhzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AQZzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAARzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQAA29yZ3NxAH4BEnQABWp1bml0c3EAfgESdAAGcnVubmVyc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+ARNzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABNmdW5zZXRzLkZ1blNldFN1aXRldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAADdAAQc2NhbGEuZGVwcmVjYXRlZHQAJ3NjYWxhLnJlZmxlY3QubWFjcm9zLmludGVybmFsLm1hY3JvSW1wbHQAJmpkay5pbnRlcm5hbC5Ib3RTcG90SW50cmluc2ljQ2FuZGlkYXRlc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cQB+AQZzcQB+ASpzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4A7UwACWluaGVyaXRlZHEAfgDtTAAHcGFyZW50c3EAfgDteHEAfgEHc3EAfgEqdXEAfgDoAAAAAHNxAH4BKnVxAH4A6AAAAABzcQB+ASp1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAD3NxAH4BBHQACEZ1blN1aXRlc3EAfgEKc3EAfgENdXEAfgEQAAAAA3NxAH4BEnQAA29yZ3NxAH4BEnQACXNjYWxhdGVzdHEAfgEbc3EAfgEEdAAMRnVuU3VpdGVMaWtlcQB+ATtzcQB+AQR0AAtEb2N1bWVudGluZ3EAfgE7c3EAfgEEdAAIQWxlcnRpbmdxAH4BO3NxAH4BBHQACU5vdGlmeWluZ3EAfgE7c3EAfgEEdAAJSW5mb3JtaW5ncQB+ATtzcQB+AQR0ABBUZXN0UmVnaXN0cmF0aW9ucQB+ATtzcQB+AQR0AAVTdWl0ZXEAfgE7c3EAfgEEdAAMU2VyaWFsaXphYmxlc3EAfgEKc3EAfgENdXEAfgEQAAAAA3NxAH4BEnQABGphdmFzcQB+ARJ0AAJpb3EAfgEbc3EAfgEEdAANQWJzdHJhY3RTdWl0ZXEAfgE7c3EAfgEEdAAKQXNzZXJ0aW9uc3EAfgE7c3EAfgEEdAAMVHJpcGxlRXF1YWxzc3EAfgEKc3EAfgENdXEAfgEQAAAAA3NxAH4BEnQAA29yZ3NxAH4BEnQACXNjYWxhY3RpY3EAfgEbc3EAfgEEdAATVHJpcGxlRXF1YWxzU3VwcG9ydHEAfgFfc3EAfgEEdAAGT2JqZWN0c3EAfgEKc3EAfgENdXEAfgEQAAAAA3NxAH4BEnEAfgFWc3EAfgESdAAEbGFuZ3EAfgEbc3EAfgEEdAADQW55c3EAfgEKc3EAfgENdXEAfgEQAAAAAnNxAH4BEnQABXNjYWxhcQB+ARt1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0AAdmdW5zZXRzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFoS47lHXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AFgvVXNlcnMvY2ppYWh1aS9Eb2N1bWVudHMvTGVhcm5pbmcvRnVuY3Rpb25hbFNjYWxhL2Z1bnNldHMvdGFyZ2V0L3NjYWxhLTIuMTEvdGVzdC1jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUZ3jO+JOZMtk0V0x2X/hXqtZNSTA=
+external apis:
+1 items
+funsets.FunSets$ -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwjFI/xQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAgc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwziGm7HQABm5vdGlmeXNxAH4ADL4x2R50AANTZXRzcQB+AAy6+22YdAAEd2FpdHNxAH4ADFv+wT90AA0kYXNJbnN0YW5jZU9mc3EAfgAMg9QPwXQABXVuaW9uc3EAfgAMQWt8I3QACWludGVyc2VjdHNxAH4ADKw8M0h0AAxzaW5nbGV0b25TZXRzcQB+AAzGEFZ/dAADbWFwc3EAfgAMJWgIAXQABmVxdWFsc3NxAH4ADAT1zB10AAxhc0luc3RhbmNlT2ZzcQB+AAxRwsRjdAAMc3luY2hyb25pemVkc3EAfgAMv50i13QADSRpc0luc3RhbmNlT2ZzcQB+AAwPOWi6dAAGZm9yYWxsc3EAfgAMhr5aD3QACHByaW50U2V0c3EAfgAM9da56HQACW5vdGlmeUFsbHNxAH4ADGTVKbl0AAxpc0luc3RhbmNlT2ZzcQB+AAyQpI/BdAAGZmlsdGVyc3EAfgAMMMCQBnQABWJvdW5kc3EAfgAMXawBJXQAB0Z1blNldHNzcQB+AAxfIZNUdAAEZGlmZnNxAH4ADIernjJ0AAI9PXNxAH4ADJbCWEN0AAVjbG9uZXNxAH4ADJOCQeh0AAZleGlzdHNzcQB+AAzP+xdodAAIdG9TdHJpbmdzcQB+AAyoNsCxdAACIT1zcQB+AAwc+eH8dAAIZ2V0Q2xhc3NzcQB+AAysr0GVdAAIY29udGFpbnNzcQB+AAzD449qdAACbmVzcQB+AAzW7+VBdAACZXFzcQB+AAwK8Zp/dAACIyNzcQB+AAzWASmgdAAIZmluYWxpemVzcQB+AAxmlz6AdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBXeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAPZnVuc2V0cy5GdW5TZXRzdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQAJmpkay5pbnRlcm5hbC5Ib3RTcG90SW50cmluc2ljQ2FuZGlkYXRlc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AHBzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AV0wACWluaGVyaXRlZHEAfgBXTAAHcGFyZW50c3EAfgBXeHEAfgB1c3EAfgBwdXEAfgBSAAAAAHNxAH4AcHVxAH4AUgAAAABzcQB+AHB1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AHR0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHRzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AI10AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AI5zcQB+AIF0AANBbnlzcQB+AIVzcQB+AIh1cQB+AIsAAAACc3EAfgCNdAAFc2NhbGFxAH4AlHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAB2Z1bnNldHNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWhLjtO2dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAUy9Vc2Vycy9jamlhaHVpL0RvY3VtZW50cy9MZWFybmluZy9GdW5jdGlvbmFsU2NhbGEvZnVuc2V0cy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU8xK7YfxR3YPaEv2+kek/lmmjmbE=
+source infos:
+2 items
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetReference.scala -> 
+AAAAAAAAAAA=
+/Users/cjiahui/Documents/Learning/FunctionalScala/funsets/src/test/scala/funsets/FunSetSuite.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaEuO5R11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWC9Vc2Vycy9jamlhaHVpL0RvY3VtZW50cy9MZWFybmluZy9GdW5jdGlvbmFsU2NhbGEvZnVuc2V0cy90YXJnZXQvc2NhbGEtMi4xMS90ZXN0LWNsYXNzZXN0AAEv
